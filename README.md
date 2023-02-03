@@ -1,7 +1,7 @@
 Hello! My name is Alex and I am a student at the National College of Informatics "Tudor Vianu" in Bucharest, Romania. 
 I am interested in competitive programming and web developing.
-Handles:
-Infoarena: lolismek
+Handles:\n
+Infoarena: lolismek\n
 Codeforces: Geanina_the_Great
 <!---
 lolismek/lolismek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
