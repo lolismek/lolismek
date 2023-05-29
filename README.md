@@ -1,5 +1,5 @@
 Hello! My name is Alex and I am a student at the National College of Informatics "Tudor Vianu" in Bucharest, Romania. 
-I am interested in competitive programming and web developing.
+I am interested in competitive programming, machinea learning and web developing.
 Infoarena: lolismek,
 Codeforces: Geanina_the_Great
 <!---
